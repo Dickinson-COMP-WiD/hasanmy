@@ -1,0 +1,8 @@
+Appointment class does not need month, year, day.  You should use inheritance more integratedly.  It should also be abstract.  
+
+
+Test cases should be in the specific file they are testing.  
+
+Your input reading should be more robust.  It shouldn't crash when given improper inputs.  
+
+Add date checking to make sure that the dates are valid when entered.  
